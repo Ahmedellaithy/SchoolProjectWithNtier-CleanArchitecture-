@@ -7,7 +7,7 @@ A Student Management System Built with Clean Architecture
 * [Installation](#installation)
 * [Usage](#usage)
 * [Features](#features)
-* [Database Diagram](#database diagram)
+* [Database](#database)
 * [Description](#description)
 * [Questions](#questions)
 ## Description 
@@ -37,9 +37,9 @@ Student: Can view personal grades and enrolled courses.
 - Localizations Of Data And Responses
 - Student(Get,Update,Delete) Enpoint
 - Teacher crud operations Endpoint
-## Database Diagram
+## Database
 
-![E-Commerce API Architecture]![image](https://github.com/user-attachments/assets/ac6e5c2a-83ba-4a59-8d97-9a8c62c6705c)
+![image](https://github.com/user-attachments/assets/ac6e5c2a-83ba-4a59-8d97-9a8c62c6705c)
 
    
 ## Description
